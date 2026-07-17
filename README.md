@@ -23,8 +23,11 @@ access reviews & certification · authentication vs. authorization · directory 
 documented as case studies (problem → solution → evidence).
 - **Lab 01:** LDAP least-privilege group policy — designed and *validated* a least-privilege
   RBAC model, proving authentication is separate from authorization.
+- **Lab 02:** Microsoft Entra ID dynamic groups + Conditional Access — built attribute-based
+  dynamic security groups and a Conditional Access policy enforcing MFA for all users,
+  with a break-glass admin exclusion.
 
-*More labs in progress: Microsoft Entra ID (RBAC + Conditional Access) and Okta (SSO + lifecycle management).*
+*More labs in progress: Okta (SSO + lifecycle management).*
 
 ---
 
