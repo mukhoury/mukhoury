@@ -21,13 +21,12 @@ access reviews & certification · authentication vs. authorization · directory 
 
 **[→ iam-portfolio](https://github.com/mukhoury-ops/iam-portfolio)** — hands-on IAM labs
 documented as case studies (problem → solution → evidence).
-- **Lab 01:** LDAP least-privilege group policy — designed and *validated* a least-privilege
-  RBAC model, proving authentication is separate from authorization.
-- **Lab 02:** Microsoft Entra ID dynamic groups + Conditional Access — built attribute-based
+- **Lab 01:** Microsoft Entra ID dynamic groups + Conditional Access — built attribute-based
   dynamic security groups and a Conditional Access policy enforcing MFA for all users,
   with a break-glass admin exclusion.
 
-*More labs in progress: Okta (SSO + lifecycle management).*
+*More labs in progress: Identity Governance (access packages, access reviews, PIM) and
+Application Identity (app registrations, SSO/SAML/OIDC), both in Microsoft Entra ID.*
 
 ---
 
