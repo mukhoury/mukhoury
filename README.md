@@ -1,6 +1,6 @@
 # Hi, I'm Mukhtar Houry 👋
 
-**Identity & Access Management (IAM) Engineer** with 10+ years of hands-on experience in
+**Identity & Access Management (IAM) Analyst** with 10+ years of hands-on experience in
 identity lifecycle management, role-based access control (RBAC), and access governance
 across enterprise retail, consulting, and financial services.
 
