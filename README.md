@@ -4,7 +4,7 @@
 identity lifecycle management, role-based access control (RBAC), and access governance
 across enterprise retail, consulting, and financial services.
 
-I'm now demonstrating that experience in modern tooling — building and documenting
+I'm now demonstrating that experience in modern tooling, building and documenting
 reproducible IAM labs as interview-ready case studies.
 
 ---
@@ -19,14 +19,22 @@ access reviews & certification · authentication vs. authorization · directory 
 
 ### 📂 Featured work
 
-**[→ iam-portfolio](https://github.com/mukhoury-ops/iam-portfolio)** — hands-on IAM labs
+**[→ iam-portfolio](https://github.com/mukhoury/iam-portfolio)** hands-on IAM labs
 documented as case studies (problem → solution → evidence).
-- **Lab 01:** Microsoft Entra ID dynamic groups + Conditional Access — built attribute-based
-  dynamic security groups and a Conditional Access policy enforcing MFA for all users,
-  with a break-glass admin exclusion.
 
-*More labs in progress: Identity Governance (access packages, access reviews, PIM) and
-Application Identity (app registrations, SSO/SAML/OIDC), both in Microsoft Entra ID.*
+- **[Lab 1](https://mukhoury.github.io/iam-portfolio/lab1/): Dynamic groups & Conditional Access.**
+  Attribute-based dynamic security groups plus a Conditional Access policy enforcing MFA for
+  all users, with a break-glass admin exclusion.
+- **[Lab 2](https://mukhoury.github.io/iam-portfolio/lab2/): Identity governance.**
+  Entitlement management with approval-gated expiring access, fail-closed access reviews, PIM
+  just-in-time admin, and joiner/leaver Lifecycle Workflows. Found a termination workflow that
+  reported six of six tasks successful while leaving the user in a dynamic group, and an
+  onboarding workflow that silently restored the access eight hours later.
+- **[Lab 3](https://mukhoury.github.io/iam-portfolio/lab3/): Graph PowerShell automation.**
+  In progress. Offboarding detection that hard-stops rather than reporting a clean result when
+  the session lacks the scope required to see termination data.
+
+*Next: Application Identity (app registrations, SSO/SAML/OIDC) in Microsoft Entra ID.*
 
 ---
 
