@@ -1,23 +1,23 @@
-# Hi, I'm Mukhtar Houry 👋
+# Hi, I'm Mukhtar Houry
 
 **Identity & Access Management (IAM) Analyst** with 10+ years of hands-on experience in
 identity lifecycle management, role-based access control (RBAC), and access governance
 across enterprise retail, consulting, and financial services.
 
 I'm now demonstrating that experience in modern tooling, building and documenting
-reproducible IAM labs as interview-ready case studies.
+reproducible IAM labs as case studies.
 
 ---
 
-🔐 **Focus areas:** identity lifecycle (joiner / mover / leaver) · RBAC & least privilege ·
+**Focus areas:** identity lifecycle (joiner / mover / leaver) · RBAC & least privilege ·
 access reviews & certification · authentication vs. authorization · directory services (LDAP / Active Directory)
 
-📜 **Certifications:** CompTIA Security+ · ISC2 Certified in Cybersecurity (CC)
-🎯 **Building toward:** Microsoft SC-300 (Identity & Access Administrator)
+**Certifications:** CompTIA Security+ · ISC2 Certified in Cybersecurity (CC)
+**Building toward:** Microsoft SC-300 (Identity & Access Administrator)
 
 ---
 
-### 📂 Featured work
+### Featured work
 
 **[→ iam-portfolio](https://github.com/mukhoury/iam-portfolio)** hands-on IAM labs
 documented as case studies (problem → solution → evidence).
@@ -38,4 +38,4 @@ documented as case studies (problem → solution → evidence).
 
 ---
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/mh90/) · open to remote / Greater Los Angeles IAM roles
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mh90/) · open to remote / Greater Los Angeles IAM roles
