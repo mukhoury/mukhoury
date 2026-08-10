@@ -30,9 +30,12 @@ documented as case studies (problem → solution → evidence).
   just-in-time admin, and joiner/leaver Lifecycle Workflows. Found a termination workflow that
   reported six of six tasks successful while leaving the user in a dynamic group, and an
   onboarding workflow that silently restored the access eight hours later.
-- **[Lab 3](https://mukhoury.github.io/iam-portfolio/lab3/): Graph PowerShell automation.**
-  In progress. Offboarding detection that hard-stops rather than reporting a clean result when
-  the session lacks the scope required to see termination data.
+- **[Lab 3](https://mukhoury.github.io/iam-portfolio/lab3/): Offboarding detection & consent auditing.**
+  A Microsoft Graph PowerShell control that checks terminated identities against groups, licenses,
+  and access package assignments, and hard-stops rather than returning a clean result when the
+  session lacks the scope required to see termination data. Found that requesting read-only scopes
+  does not produce a read-only session, because the token carries every permission the application
+  was already consented for.
 
 *Next: Application Identity (app registrations, SSO/SAML/OIDC) in Microsoft Entra ID.*
 
