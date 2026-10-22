@@ -24,7 +24,7 @@ hybrid identity & directory synchronization
 organized by capability and documented as case studies (risk → what I built → what I found).
 
 - **[Leaver](https://mukhoury.github.io/iam-portfolio/leaver/): Off-boarding that says it worked, and how to catch it when it didn't.**
-  A termination workflow reported six of six tasks successful while leaving the user in a dynamic group,
+  A termination workflow reported 6 of 6 tasks successful while leaving the user in a dynamic group,
   and an onboarding workflow silently restored the access 8.5 hours later. In hybrid, disabling an account
   kept its entitlements, and moving it out of sync scope deleted the cloud identity outright. Includes a
   Microsoft Graph PowerShell detection script that hard-stops rather than returning a false clean result.
