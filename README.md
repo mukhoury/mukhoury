@@ -4,6 +4,9 @@
 identity lifecycle management, role-based access control (RBAC), and access governance
 across enterprise retail, consulting, and financial services.
 
+I'm now demonstrating that experience in modern tooling, building and documenting
+hands-on IAM projects as case studies.
+
 ---
 
 **Focus areas:** identity lifecycle (joiner / mover / leaver) · RBAC & least privilege ·
