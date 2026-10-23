@@ -1,8 +1,8 @@
 # Hi, I'm Mukhtar Houry
 
-**Identity & Access Management (IAM) Analyst** with 10+ years of hands-on experience in
-identity lifecycle management, role-based access control (RBAC), and access governance
-across enterprise retail, consulting, and financial services.
+Moving into **Identity & Access Management (IAM)** after 10 years in retail and operations
+management, including leading a team of 12 to 15 at Verizon, where I handled their access
+from hire to departure.
 
 I'm now demonstrating that experience in modern tooling, building and documenting
 hands-on IAM projects as case studies.
